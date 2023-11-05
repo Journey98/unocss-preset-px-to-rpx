@@ -23,8 +23,8 @@
     "typescript": "^5.2.2",
     "vitest": "^0.34.3"
   },
-  "homepage": "https://github.com/chengchongzhen/present-px-to-vw",
-  "repository": "https://github.com/chengchongzhen/present-px-to-vw",
+  "homepage": "https://github.com/Journey98/unocss-preset-px-to-rpx",
+  "repository": "https://github.com/Journey98/unocss-preset-px-to-rpx",
   "exports": {
     ".": {
       "import": "./dist/index.js",
