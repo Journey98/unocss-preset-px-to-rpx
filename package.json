@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "unocss-preset-px-to-rpx",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "将 unocss 的 px 转为 rpx",
   "main": "./src/index.js",
   "type": "module",

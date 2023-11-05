@@ -5,7 +5,7 @@ const pxToVwRE = /(-?[\.\d]+)px/g;
 
 export default function pxToVwPreset(): Preset {
   return {
-    name: '@unocss/preset-px-to-upx',
+    name: '@unocss/preset-px-to-rpx',
     postprocess: (util: UtilObject) => {
       util.entries.forEach((i) => {
         const value = i[1];
